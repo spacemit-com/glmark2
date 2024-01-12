@@ -68,6 +68,7 @@ Depends: glmark2-data (= ${source:Version}),
          libgles2,
          libwayland-client0,
          libwayland-cursor0,
+         libjpeg9,
          ${misc:Depends},
          ${shlibs:Depends},
 Description: OpenGL 2.0 benchmark suite (Wayland / GLESv2)
