@@ -65,6 +65,7 @@ Architecture: any
 Depends: glmark2-data (= ${source:Version}),
          libwayland-client0,
          libwayland-cursor0,
+         libjpeg9,
          ${misc:Depends},
          ${shlibs:Depends},
 Description: OpenGL 2.0 benchmark suite
