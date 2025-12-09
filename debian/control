@@ -2,7 +2,8 @@ Source: glmark2
 Section: utils
 Priority: optional
 Standards-Version: 4.6.2
-Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Debian Games Team <pkg-games-devel@lists.alioth.debian.org>
 Uploaders: Marius Vlad <marius.vlad@collabora.com>
 Build-Depends: debhelper-compat (= 13),
                libdrm-dev,
